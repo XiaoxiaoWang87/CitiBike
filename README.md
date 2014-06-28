@@ -24,3 +24,9 @@ Step 3: analyze trees
 ./analyzetree.py whichPlotOutputDir
 (for batch jobs: source sub_analyze.sh)
 
+
+-------------------------------
+-------------------------------
+Plotting functionalities are in PlottingUtls.py.
+The geographical map is made with makemapnyc.py. It uses the input file made after running analyzetree.py.
+
