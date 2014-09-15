@@ -1,7 +1,7 @@
 CitiBike
 ========
 
-My code to analyze the 8-month Citi Bike data since the program launch. A lot of fun.
+My code to analyze 8-month of NYC Citi Bike data since program launch. A lot of fun.
 
 -------------------------------
 Step 1: make tree from raw data
